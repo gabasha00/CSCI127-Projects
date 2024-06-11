@@ -11,9 +11,6 @@ newLower = lower(sentence)#2
 
 print(newLower)#3
 
-#For lines #1 & #2, I wasn't sure if a user input was what was required. If not 
-#required, then you can just remove the lines numbered #1, #2, and #3 and
-#enter print(lower('insert sentence here'))
 
 ################################################
 
